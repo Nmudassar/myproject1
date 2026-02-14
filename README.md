@@ -236,7 +236,7 @@ airflow
 Password:
 
 ```
-airflow
+******
 ```
 
 ---
